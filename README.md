@@ -1,3 +1,4 @@
-## First Commit
+# Nova CMS Docs
 
-whoooosh
+1. Install Laravel Nova 
+
